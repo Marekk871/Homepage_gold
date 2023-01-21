@@ -1,0 +1,25 @@
+.navigation__list {
+    list-style: none;
+    text-align: center;
+}
+
+.navigation__link {
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    padding: 20px;
+    border: 1px solid rgb(255, 213, 0);
+    border-radius: 10px;
+    box-shadow: 5px 5px 21px 2px #FFD500;
+    margin: 20px;
+}
+
+.navigation__link:hover {
+    background-color: rgb(46, 39, 2);
+
+}
+
+.navigation__listItem {
+    display: inline-block;
+    
+}
