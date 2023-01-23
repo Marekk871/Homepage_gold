@@ -1,3 +1,4 @@
+{
 const toggleBackground = () => {
     const body = document.querySelector(".body");
     const themeName = document.querySelector(".js-themeName");
@@ -12,3 +13,4 @@ const init = () => {
 };
 
 init();
+}
